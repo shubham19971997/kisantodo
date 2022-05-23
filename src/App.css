@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.cdiv {
+  display: hidden;
+  opacity: 0.5;
+  color: green;
+  font-weight: 600;
+}
